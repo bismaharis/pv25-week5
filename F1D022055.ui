@@ -244,14 +244,14 @@
   <widget class="QLabel" name="label_8">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>61</width>
+     <x>40</x>
+     <y>10</y>
+     <width>211</width>
      <height>16</height>
     </rect>
    </property>
    <property name="text">
-    <string>F1D022055</string>
+    <string>Lalu Bisma Kurniawan Haris_F1D022055</string>
    </property>
   </widget>
  </widget>

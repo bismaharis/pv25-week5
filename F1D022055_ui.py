@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'F1D022055.ui'
+# Form implementation generated from reading ui file 'c:\bism punya\2. KULYEAHH\Semester 6\Pemrograman Visual\pv25-week5\F1D022055.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.11
 #
@@ -71,7 +71,7 @@ class Ui_Form(object):
         self.label_7.setGeometry(QtCore.QRect(40, 280, 61, 21))
         self.label_7.setObjectName("label_7")
         self.label_8 = QtWidgets.QLabel(Form)
-        self.label_8.setGeometry(QtCore.QRect(0, 0, 61, 16))
+        self.label_8.setGeometry(QtCore.QRect(40, 10, 211, 16))
         self.label_8.setObjectName("label_8")
 
         self.retranslateUi(Form)
@@ -98,4 +98,4 @@ class Ui_Form(object):
         self.label_5.setText(_translate("Form", "Address:"))
         self.label_6.setText(_translate("Form", "Gender:"))
         self.label_7.setText(_translate("Form", "Education:"))
-        self.label_8.setText(_translate("Form", "F1D022055"))
+        self.label_8.setText(_translate("Form", "Lalu Bisma Kurniawan Haris_F1D022055"))
